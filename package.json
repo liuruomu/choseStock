@@ -1,0 +1,21 @@
+{
+  "name": "chooStock",
+  "version": "0.0.0",
+  "description": "模型中的一种。根据前期股票表现数据，选择符合该种模型的股票，并对其后期的表现加以判断。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alsotang/node-lessons/tree/master/lesson2"
+  },
+  "keywords": [
+    "stock"
+  ],
+  "author": "ll",
+  "license": "BSD",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
